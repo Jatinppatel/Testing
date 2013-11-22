@@ -1,0 +1,313 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A959EFF5157DC9B300DED203 /* 6943.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A959EFF4157DC9B300DED203 /* 6943.jpg */; };
+		A959EFF8157DCAD200DED203 /* 5496.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A959EFF7157DCAD200DED203 /* 5496.jpg */; };
+		A9774587157CB41A00B7E652 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9774586157CB41A00B7E652 /* UIKit.framework */; };
+		A9774589157CB41A00B7E652 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9774588157CB41A00B7E652 /* Foundation.framework */; };
+		A977458B157CB41A00B7E652 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A977458A157CB41A00B7E652 /* CoreGraphics.framework */; };
+		A9774591157CB41A00B7E652 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A977458F157CB41A00B7E652 /* InfoPlist.strings */; };
+		A9774593157CB41A00B7E652 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A9774592157CB41A00B7E652 /* main.m */; };
+		A9774597157CB41A00B7E652 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A9774596157CB41A00B7E652 /* AppDelegate.m */; };
+		A977459A157CB41A00B7E652 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9774599157CB41A00B7E652 /* ViewController.m */; };
+		A977459D157CB41A00B7E652 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A977459B157CB41A00B7E652 /* ViewController.xib */; };
+		A97745A4157CB8CA00B7E652 /* 5111.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97745A3157CB8CA00B7E652 /* 5111.jpg */; };
+		A97745AA157CEB8E00B7E652 /* 5847.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97745A9157CEB8E00B7E652 /* 5847.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A959EFF4157DC9B300DED203 /* 6943.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6943.jpg; sourceTree = "<group>"; };
+		A959EFF7157DCAD200DED203 /* 5496.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5496.jpg; sourceTree = "<group>"; };
+		A9774582157CB41A00B7E652 /* InstalgramIntegration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstalgramIntegration.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9774586157CB41A00B7E652 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A9774588157CB41A00B7E652 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A977458A157CB41A00B7E652 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A977458E157CB41A00B7E652 /* InstalgramIntegration-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InstalgramIntegration-Info.plist"; sourceTree = "<group>"; };
+		A9774590157CB41A00B7E652 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A9774592157CB41A00B7E652 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A9774594157CB41A00B7E652 /* InstalgramIntegration-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "InstalgramIntegration-Prefix.pch"; sourceTree = "<group>"; };
+		A9774595157CB41A00B7E652 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A9774596157CB41A00B7E652 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A9774598157CB41A00B7E652 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		A9774599157CB41A00B7E652 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A977459C157CB41A00B7E652 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		A97745A3157CB8CA00B7E652 /* 5111.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5111.jpg; sourceTree = "<group>"; };
+		A97745A9157CEB8E00B7E652 /* 5847.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5847.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A977457F157CB41A00B7E652 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A9774587157CB41A00B7E652 /* UIKit.framework in Frameworks */,
+				A9774589157CB41A00B7E652 /* Foundation.framework in Frameworks */,
+				A977458B157CB41A00B7E652 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A9774577157CB41A00B7E652 = {
+			isa = PBXGroup;
+			children = (
+				A959EFF7157DCAD200DED203 /* 5496.jpg */,
+				A97745A9157CEB8E00B7E652 /* 5847.jpg */,
+				A959EFF4157DC9B300DED203 /* 6943.jpg */,
+				A977458C157CB41A00B7E652 /* InstalgramIntegration */,
+				A9774585157CB41A00B7E652 /* Frameworks */,
+				A9774583157CB41A00B7E652 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A9774583157CB41A00B7E652 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A9774582157CB41A00B7E652 /* InstalgramIntegration.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A9774585157CB41A00B7E652 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A9774586157CB41A00B7E652 /* UIKit.framework */,
+				A9774588157CB41A00B7E652 /* Foundation.framework */,
+				A977458A157CB41A00B7E652 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A977458C157CB41A00B7E652 /* InstalgramIntegration */ = {
+			isa = PBXGroup;
+			children = (
+				A97745A3157CB8CA00B7E652 /* 5111.jpg */,
+				A9774595157CB41A00B7E652 /* AppDelegate.h */,
+				A9774596157CB41A00B7E652 /* AppDelegate.m */,
+				A9774598157CB41A00B7E652 /* ViewController.h */,
+				A9774599157CB41A00B7E652 /* ViewController.m */,
+				A977459B157CB41A00B7E652 /* ViewController.xib */,
+				A977458D157CB41A00B7E652 /* Supporting Files */,
+			);
+			path = InstalgramIntegration;
+			sourceTree = "<group>";
+		};
+		A977458D157CB41A00B7E652 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A977458E157CB41A00B7E652 /* InstalgramIntegration-Info.plist */,
+				A977458F157CB41A00B7E652 /* InfoPlist.strings */,
+				A9774592157CB41A00B7E652 /* main.m */,
+				A9774594157CB41A00B7E652 /* InstalgramIntegration-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A9774581157CB41A00B7E652 /* InstalgramIntegration */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A97745A0157CB41A00B7E652 /* Build configuration list for PBXNativeTarget "InstalgramIntegration" */;
+			buildPhases = (
+				A977457E157CB41A00B7E652 /* Sources */,
+				A977457F157CB41A00B7E652 /* Frameworks */,
+				A9774580157CB41A00B7E652 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = InstalgramIntegration;
+			productName = InstalgramIntegration;
+			productReference = A9774582157CB41A00B7E652 /* InstalgramIntegration.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A9774579157CB41A00B7E652 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = IndiaNIC;
+			};
+			buildConfigurationList = A977457C157CB41A00B7E652 /* Build configuration list for PBXProject "InstalgramIntegration" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A9774577157CB41A00B7E652;
+			productRefGroup = A9774583157CB41A00B7E652 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A9774581157CB41A00B7E652 /* InstalgramIntegration */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A9774580157CB41A00B7E652 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A9774591157CB41A00B7E652 /* InfoPlist.strings in Resources */,
+				A977459D157CB41A00B7E652 /* ViewController.xib in Resources */,
+				A97745A4157CB8CA00B7E652 /* 5111.jpg in Resources */,
+				A97745AA157CEB8E00B7E652 /* 5847.jpg in Resources */,
+				A959EFF5157DC9B300DED203 /* 6943.jpg in Resources */,
+				A959EFF8157DCAD200DED203 /* 5496.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A977457E157CB41A00B7E652 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A9774593157CB41A00B7E652 /* main.m in Sources */,
+				A9774597157CB41A00B7E652 /* AppDelegate.m in Sources */,
+				A977459A157CB41A00B7E652 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A977458F157CB41A00B7E652 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A9774590157CB41A00B7E652 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A977459B157CB41A00B7E652 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A977459C157CB41A00B7E652 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A977459E157CB41A00B7E652 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PROVISIONING_PROFILE = "F55A26A9-878C-4CB8-B701-A898F8A7FB93";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F55A26A9-878C-4CB8-B701-A898F8A7FB93";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		A977459F157CB41A00B7E652 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "F55A26A9-878C-4CB8-B701-A898F8A7FB93";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F55A26A9-878C-4CB8-B701-A898F8A7FB93";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A97745A1157CB41A00B7E652 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "InstalgramIntegration/InstalgramIntegration-Prefix.pch";
+				INFOPLIST_FILE = "InstalgramIntegration/InstalgramIntegration-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "F55A26A9-878C-4CB8-B701-A898F8A7FB93";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F55A26A9-878C-4CB8-B701-A898F8A7FB93";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		A97745A2157CB41A00B7E652 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "InstalgramIntegration/InstalgramIntegration-Prefix.pch";
+				INFOPLIST_FILE = "InstalgramIntegration/InstalgramIntegration-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "F55A26A9-878C-4CB8-B701-A898F8A7FB93";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F55A26A9-878C-4CB8-B701-A898F8A7FB93";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A977457C157CB41A00B7E652 /* Build configuration list for PBXProject "InstalgramIntegration" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A977459E157CB41A00B7E652 /* Debug */,
+				A977459F157CB41A00B7E652 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A97745A0157CB41A00B7E652 /* Build configuration list for PBXNativeTarget "InstalgramIntegration" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A97745A1157CB41A00B7E652 /* Debug */,
+				A97745A2157CB41A00B7E652 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A9774579157CB41A00B7E652 /* Project object */;
+}
